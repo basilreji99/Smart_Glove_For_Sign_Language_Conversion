@@ -18,7 +18,7 @@ ELECTRICAL AND ELECTRONICS ENGINEERING <br>
 DIVISION OF ELECTRICAL ENGINEERING<br> </p>
 
 <p align="center"> 
-  <img width="460" height="300" src="images/cusat.jpeg"> <br>
+  <img width="200" src="images/cusat.png"> <br>
   SCHOOL OF ENGINEERING <br>
 COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY <br> COCHIN-682022 
 </p>
@@ -36,7 +36,7 @@ ADERSH (19170003)
 towards the partial fulfilment for the award of the degree of B. Tech in Electrical & Electronics Engineering of Cochin University of Science and Technology, Kochi-682022.<br>
 
 
-<table border="0">
+<table align = "center" border="0">
  <tr>
     <td><b style="font-size:30px">Dr. Asha E Daniel</b></td>
     <td><b style="font-size:30px">Ms. Jeena John</b></td>
@@ -120,14 +120,14 @@ This report gives a brief about the project that is useful for speech or hear im
 
 <h2 align="center"> REFERENCES </h2>
  <p align="justify"> 
-1) K Abhijit Baskaran; Anoop G. Nair; K Deepak Ram; Krishnan Ananthanarayanan; H. R. Nandi Vardhan “Smart gloves for hand gesture recognition: Sign language to speech conversion system”, 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA), IEEE Xplore, May 2017
-2) Albert Mayan J, Dr. B. Bharathi, Challapalli Vishal, Chidipothu Vishnu Vardhan Subrahmanyam “Smart Glove For Hand Gesture Recognition Using Sign Language to Speech Conversion System”, International Journal of Pure and Applied Mathematics, Volume 119, pp. 12, 2018.
-3) Shahrukh Javed1, Ghousia Banu S1, J Aarthy Suganthi Kani1 and Ateequeur Rahman2 “Wireless Glove for Hand Gesture Acknowledgment: Sign Language to Discourse Change Framework in Territorial Dialect”, Robotics and Automation Engineering Journal, June 26, 2018
-4) Gupta, Dhiraj- “Design and development of a low-cost Electronic Hand Glove for deaf and blind”, 2nd International Conference on Computing for Sustainable Global Development (INDIA.Com), pp 501-505, 11-13 March 2015.
-5) https://ieeexplore.ieee.org/
-6) https://www.researchgate.net/
-7) https://www.semanticscholar.org/
-8) https://electronicsforu.com/
-9) https://www.instructables.com/
+1) K Abhijit Baskaran; Anoop G. Nair; K Deepak Ram; Krishnan Ananthanarayanan; H. R. Nandi Vardhan “Smart gloves for hand gesture recognition: Sign language to speech conversion system”, 2016 International Conference on Robotics and Automation for Humanitarian Applications (RAHA), IEEE Xplore, May 2017. <br>
+2) Albert Mayan J, Dr. B. Bharathi, Challapalli Vishal, Chidipothu Vishnu Vardhan Subrahmanyam “Smart Glove For Hand Gesture Recognition Using Sign Language to Speech Conversion System”, International Journal of Pure and Applied Mathematics, Volume 119, pp. 12, 2018.<br>
+3) Shahrukh Javed1, Ghousia Banu S1, J Aarthy Suganthi Kani1 and Ateequeur Rahman2 “Wireless Glove for Hand Gesture Acknowledgment: Sign Language to Discourse Change Framework in Territorial Dialect”, Robotics and Automation Engineering Journal, June 26, 2018.<br>
+4) Gupta, Dhiraj- “Design and development of a low-cost Electronic Hand Glove for deaf and blind”, 2nd International Conference on Computing for Sustainable Global Development (INDIA.Com), pp 501-505, 11-13 March 2015.<br>
+5) https://ieeexplore.ieee.org/<br>
+6) https://www.researchgate.net/<br>
+7) https://www.semanticscholar.org/<br>
+8) https://electronicsforu.com/<br>
+9) https://www.instructables.com/<br>
 10) https://en.wikipedia.org/ </p>
 
